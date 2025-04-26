@@ -1,5 +1,17 @@
 <h2 align="left"># Hi there, I'm Muznain Pathan! 👋<br><br>## About Me<br>- 🎓 Junior Web Developer | B.E. in Computer Engineering (2026)<br>- 💻 Passionate about Full-Stack Development, AI, ML, and IoT Projects<br>- 🚀 Always learning, building, and improving tech solutions<br>- 📫 Reach me at: muznain.pathan@gmail.com<br>- 🌐 Portfolio: [My Portfolio](https://thunderous-figolla-e75528.netlify.app/)</h2>
 
+## Skills
+- **Programming Languages:** Java, Python, C++, C
+- **Web Development:** React.js, Material UI, HTML, CSS, Node.js, ES6
+- **Tools & Technologies:** Git, VS Code, APIs, OCR, IoT Devices
+
+## Projects
+- 📱 **College App Development** — Building an app with intuitive UI and robust backend for Dr. D.Y. Patil College.
+- 🗂️ **Employee Directory** — React + Material UI based directory with enhanced UX/UI.
+- 🖼️ **OCR Image Recognition System** — Text extraction and processing from images.
+- 💳 **Payment Gateway Integration** — Secure, scalable online payment system.
+- 📡 **Beacon Device Integration** — Indoor navigation system through beacon technology.
+
 ###
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif"  />
@@ -64,3 +76,7 @@
 </div>
 
 ###
+
+---
+
+> "Building ideas into reality, one line of code at a time." 🚀
